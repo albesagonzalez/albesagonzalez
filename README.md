@@ -10,7 +10,7 @@ This sounds (and indeed is) very cool. By creating models that are able to repro
 
 At that point, Computational Neuroscience (CN) and Artificial Intelligence (AI) diverged into two different disciplines: while the first is insterested in understanding the brain, the second intends to achieve artificial systems able to perform complex cognitive tasks. Nevertheless, the two are still related, and keep on influencing each other today. For example, discoveries in neuroscience inspire new algorithms in AI, and fundamental findings in AI guide what could be expected from neural systems, which have been optimized by evolution for hundreds of millions of years.
 
-Since I became interested in these fields, I have tried to undertake many projects to gain knowledge on as many approaches as possible and, during my way, also find the specific topics that motivate my as a future researcher. Here is a selection of 4 of them to exemplify my experience in these fields:
+Since I became interested in these fields, I have tried to undertake many projects to gain knowledge on as many approaches as possible and, during my way, also find the specific topics that motivate me as a future researcher. Here is a selection of 4 of them to exemplify my experience in these fields:
 
 ## Playing BlackJack with Reinforcement Learning
 
