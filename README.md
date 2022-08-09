@@ -47,6 +47,9 @@ The project was significantly challenging and included autonomously looking for 
 
 <img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/inhibitory.png" alt="drawing" width="400"/>
 
+## Other work samples
+
+In [this repository](https://github.com/albertalbesa/reports) you can find more samples of work I have done in the past, so feel free to take a look and see other examples of projects I have undertaken.
 
 # Please Get in Touch!
 
