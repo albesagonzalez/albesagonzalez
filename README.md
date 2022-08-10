@@ -10,13 +10,13 @@ This sounds (and indeed is) very cool. By creating models that are able to repro
 
 At that point, Computational Neuroscience (CN) and Artificial Intelligence (AI) diverged into two different disciplines: while the first is insterested in understanding the brain, the second intends to achieve artificial systems able to perform complex cognitive tasks. Nevertheless, the two are still related, and keep on influencing each other today. For example, discoveries in neuroscience inspire new algorithms in AI, and fundamental findings in AI guide what could be expected from neural systems, which have been optimized by evolution for hundreds of millions of years.
 
-Since I became interested in these fields, I have tried to undertake many projects to gain knowledge on as many approaches as possible and, during my way, also find the specific topics that motivate me as a future researcher. Here is a selection of 4 of them to exemplify my experience in these fields:
+Since I became interested in these areas, I have participated in different projects. Through this, I have tied to gain knowledge on as many approaches as possible and, as well as finding the specific topics that motivate me as a future researcher. Here is a selection of 4 of them to exemplify my experience:
 
 ## Playing BlackJack with Reinforcement Learning
 
 Reinforcement Learning (RL) is inspired in psychology and how agents learn to interact with an environment based on *rewards* and *punishments*. This technique has gained popularity since the release of an iconic paper [Playing Atari with Deep Reinforcement Learninig](https://arxiv.org/pdf/1312.5602v1.pdf), which combined an old-established method (Q-Learning) with Deep Neural Networks (DNNs) to teach an agent how to play computer games based solely on the screen images and taking the achieved score as a reward.
 
-In [this project](https://github.com/albertalbesa/playing_blackjack), which I carried out with two other colleagues, we explored the use of many different techniques in RL to get an agent to learn how to play BlackJack. We developed both the environment and the agent from scratch only using scientific computing packages, without any help from ML packages (like Tensorflow). The techniques used were MonteCarlo, Q-Learning, Deep Q-Learning and Policy Gradient. Furthermore, we used DNNs and also Quantum Variational Circuits as function approximators (functions used to approimate the so-called *action-state value*).
+In [this project](https://github.com/albertalbesa/playing_blackjack), which I carried out with two other colleagues, we explored the use of many different techniques in RL to get an agent to learn how to play BlackJack. We developed both the environment and the agent from scratch only using scientific computing packages, without any help from ML packages (like Tensorflow). The techniques used were MonteCarlo, Q-Learning, Deep Q-Learning and Policy Gradient. Furthermore, we used DNNs and also Quantum Variational Circuits as function approximators (functions used to approximate the so-called *action-state value*).
 
 
 ## Weight dependece in BCM leads to adjustable synaptic competition
