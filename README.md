@@ -53,4 +53,4 @@ In [this repository](https://github.com/albertalbesa/reports) you can find more 
 
 # Please Get in Touch!
 
-Either if you are a student with a background in quantitative sciences and would like to know more about how to transition to CN or AI, or if you are an employer / researcher that would like to collaborate with me, please get in touch! My email is albert.albesa.gonzalez@gmail.com
+Either if you are a someone who would like to know more about or simply discuss these topics, or if you are an employer / researcher that would like to collaborate with me, please get in touch! My email is albert.albesa.gonzalez@gmail.com
