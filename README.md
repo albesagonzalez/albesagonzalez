@@ -1,6 +1,7 @@
-# Welcome to my GitHub profile!
+<img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/welcome.png" alt="drawing" width="750"/>
 
-Welcome to my GitHub profile, my name is Albert and here you can find some of my work in the fields of Computational Neuroscience and Artificial Intelligence. If you are curious about what these fields are and how they relate to each ohter, keep reading!
+
+Welcome to my GitHub profile, my name is Albert and here you can find some of my work in the fields of Computational Neuroscience and Artificial Intelligence. If you are curious about what these fields are and how they relate to each other, keep reading!
 
 <img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/what_is_cn.png" alt="drawing" width="750"/>
 
