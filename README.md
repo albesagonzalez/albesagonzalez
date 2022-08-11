@@ -1,8 +1,4 @@
 <img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/welcome.png" alt="drawing" width="750"/>
-
-
-Welcome to my GitHub profile, my name is Albert and here you can find some of my work in the fields of Computational Neuroscience and Artificial Intelligence. If you are curious about what these fields are and how they relate to each other, keep reading!
-
 <img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/what_is_cn.png" alt="drawing" width="750"/>
 
 This sounds (and indeed is) very cool. By creating models that are able to reproduce experimental data, one can make predictions on what should be observed in regions of the model parameter space out of the original experiments solely based on simulations. But it does not stop there... Many years ago, some scientists understood that mathematical models of neurons, especially the simplest ones, could not only be used within neuroscience, but also allowed machines to mimic intelligent behaviour: it was the birth of Artificial Neural Networks (ANNs).
