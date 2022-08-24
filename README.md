@@ -1,9 +1,9 @@
-<img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/welcome.png" alt="drawing" width="740"/>
-<img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/what_is_cn.png" alt="drawing" width="740"/>
+<img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/welcome.png" alt="drawing" width="700"/>
+<img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/what_is_cn.png" alt="drawing" width="700"/>
 
 This sounds (and indeed is) very cool. By creating models that are able to reproduce experimental data, one can make predictions on what should be observed in regions of the model parameter space out of the original experiments solely based on simulations. But it does not stop there... Many years ago, some scientists understood that mathematical models of neurons, especially the simplest ones, could not only be used within neuroscience, but also allowed machines to mimic intelligent behaviour: it was the birth of Artificial Neural Networks (ANNs).
 
-<img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/anns.png" alt="drawing" width="740"/>
+<img src="https://github.com/albertalbesa/albertalbesa/blob/main/figures/anns.png" alt="drawing" width="700"/>
 
 At that point, Computational Neuroscience (CN) and Artificial Intelligence (AI) diverged into two different disciplines: while the first is insterested in understanding the brain, the second intends to achieve artificial systems able to perform complex cognitive tasks. Nevertheless, the two are still related, and keep on influencing each other today. For example, discoveries in neuroscience inspire new algorithms in AI, and fundamental findings in AI guide what could be expected from neural systems, which have been optimized by evolution for hundreds of millions of years.
 
